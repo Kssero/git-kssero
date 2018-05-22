@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="#">
+</head>
+<body>
+<a href="https://htmlacademy.ru"> HTMLACADEMY  </a>
+
+<style>
+
+a:hover{
+
+  color: rgba(255,255,255,0.3);
+  text-decoration: underline;
+
+}
+
+</style>
+
+</body> 
+
+
+</html>
