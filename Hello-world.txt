@@ -1,5 +1,9 @@
 print("Hello world");
 print("Hey");
 print("Hello htmlacademy");
+
 print("Hello my friend");
 pirnt("Hello motherfucka");
+
+
+println("Hello dear friend");
