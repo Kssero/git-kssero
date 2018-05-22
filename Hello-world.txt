@@ -7,3 +7,5 @@ pirnt("Hello motherfucka");
 
 
 println("Hello dear friend");
+
+Systemoutprintln("Hello java");
