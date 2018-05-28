@@ -1,0 +1,14 @@
+class Program
+    {
+        static void Main(string[] args)
+        {
+            DateTime NewYear = new DateTime(2018,12,31);
+            DateTime now = DateTime.Now;
+ 
+            TimeSpan ts = NewYear - now;
+            int days = (int)ts.TotalDays;
+ 
+            Console.WriteLine("Still to NewYear "+ days +" days");
+        }
+    }
+}
