@@ -1,0 +1,24 @@
+footer{
+    background-color: #f0f0f0;
+    padding: 40px 0;
+    color: #000;
+}
+
+.footer-left a{
+    color: #000;
+    margin-right: 20px;
+
+}
+
+.footer-right a{
+
+    color: #000;
+    margin-left: 20px;
+
+}
+
+
+.btn-info{
+    margin:20px 0;
+
+}
