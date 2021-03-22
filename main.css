@@ -1,0 +1,74 @@
+.products{
+    margin: 20px 0;
+}
+
+.card{
+    margin-bottom: 20px;
+    transition: all .5s;
+}
+
+.card:hover{
+    box-shadow: 0 0 10px rgba(0,0,0,.2);
+}
+
+footer{
+    background-color: #f0f0f0;
+    padding: 40px 0;
+    color: #000;
+}
+
+.footer-left a{
+    color: #000;
+    margin-right: 20px;
+
+}
+
+.footer-right a{
+
+    color: #000;
+    margin-left: 20px;
+
+}
+
+
+.fa-vk{
+    color: darkblue;
+
+}
+
+.fa-instagram{
+    color:darkmagenta;
+}
+
+.fa-html5{
+    color: orange;
+}
+
+.fa-css3-alt{
+    color:blue;
+}
+
+.fa-php{
+    color:cornflowerblue;
+}
+
+fa-js-square{
+    color:yellow;
+}
+
+fa-bootstrap{
+    color:purple;
+}
+
+
+h1{
+    padding: 20px;
+}
+
+h2{
+    padding: 20px;
+}
+
+strong{
+    padding: 20px;
+}
